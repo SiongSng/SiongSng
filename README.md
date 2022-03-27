@@ -1,5 +1,12 @@
-## SiongSng (菘菘)
-### Hello World 👋
+# SiongSng (菘菘)
+## About me
+I am a junior high school student from Taiwan who likes coding and contributing to open-source projects.
+## Featured Projects
+- [RPMTW Platform Mod](https://github.com/RPMTW/RPMTW-Platform-Mod)
+- [Easy Education Platform](https://github.com/EEPTW)
+- [RPMLauncher](https://github.com/RPMTW/RPMLauncher)
+- [RPMWiki](https://github.com/RPMTW/RPMTW-Wiki)
+- [RPMTW API Server](https://github.com/RPMTW/RPMTW-Server)
 
 ## 
 <p align="center">
