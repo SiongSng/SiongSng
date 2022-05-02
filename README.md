@@ -3,7 +3,7 @@
 I am a junior high school student from Taiwan who likes coding and contributing to open-source projects.
 ## Featured Projects
 - [RPMTW Platform Mod](https://github.com/RPMTW/RPMTW-Platform-Mod)
-- [Easy Education Platform](https://github.com/EEPTW)
+- [Lipoic Education Platform](https://github.com/Lipoic)
 - [RPMLauncher](https://github.com/RPMTW/RPMLauncher)
 - [RPMWiki](https://github.com/RPMTW/RPMTW-Wiki)
 - [RPMTW API Server](https://github.com/RPMTW/RPMTW-Server)
