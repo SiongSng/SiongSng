@@ -4,6 +4,7 @@ I am a junior high school student from Taiwan who likes coding and contributing 
 ## Featured Projects
 - [RPMTW Platform Mod](https://github.com/RPMTW/RPMTW-Platform-Mod)
 - [Lipoic Education Platform](https://github.com/Lipoic)
+- [Taiwan Rapid Antigen Test Map](https://github.com/SiongSng/Rapid-Antigen-Test-Taiwan-Map)
 - [RPMLauncher](https://github.com/RPMTW/RPMLauncher)
 - [RPMWiki](https://github.com/RPMTW/RPMTW-Wiki)
 - [RPMTW API Server](https://github.com/RPMTW/RPMTW-Server)
