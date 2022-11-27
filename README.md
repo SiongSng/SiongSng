@@ -1,6 +1,8 @@
 # SiongSng (菘菘)
 ## About me
-I am a junior high school student from Taiwan who likes coding and contributing to open-source projects.
+I am a junior high school student from Taiwan, I love the spirit of open source and I like to contribute code to projects.  
+嗨~~ 很高興認識你，我是個來自台灣的國中生，喜歡寫程式、關注教育議題、貢獻開源專案、剪輯影片、研究麥塊、學習知識，熱愛開放原始碼精神。  
+
 ## Featured Projects
 - [RPMTW Platform Mod](https://github.com/RPMTW/RPMTW-Platform-Mod)
 - [Lipoic Education Platform](https://github.com/Lipoic)
@@ -8,6 +10,7 @@ I am a junior high school student from Taiwan who likes coding and contributing 
 - [RPMLauncher](https://github.com/RPMTW/RPMLauncher)
 - [RPMWiki](https://github.com/RPMTW/RPMTW-Wiki)
 - [RPMTW API Server](https://github.com/RPMTW/RPMTW-Server)
+- [2022 Election Page](https://github.com/SiongSng/2022-election)
 
 ## 
 <p align="center">
