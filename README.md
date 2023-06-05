@@ -1,6 +1,6 @@
 # SiongSng (菘菘)
 ## About me
-Hi, Nice to meet you! I'm a prospective high school student from Taiwan.
+Hi, Nice to meet you! I'm a prospective high school student from Taiwan.  
 I have a passion for learning new knowledge and caring about social issues in life. I strive to address these issues through technology and programming, and ultimately share the process and outcomes with everyone for the benefit of all.
 
 嗨～很高興認識你，我是個來自臺灣的準高中生。
