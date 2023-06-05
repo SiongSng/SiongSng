@@ -1,7 +1,10 @@
 # SiongSng (菘菘)
 ## About me
-I am a junior high school student from Taiwan, I love the spirit of open source and I like to contribute code to projects.  
-嗨~~ 很高興認識你，我是個來自台灣的國中生，喜歡寫程式、關注教育議題、貢獻開源專案、剪輯影片、研究麥塊、學習知識，熱愛開放原始碼精神。  
+Hi, Nice to meet you! I'm a prospective high school student from Taiwan.
+I have a passion for learning new knowledge and caring about social issues in life. I strive to address these issues through technology and programming, and ultimately share the process and outcomes with everyone for the benefit of all.
+
+嗨～很高興認識你，我是個來自臺灣的準高中生。
+我熱愛學習新知識、關心生活中的社會議題，並透過科技與程式嘗試解決這些議題，最終將過程與結果開源，使人人受惠。
 
 ## Featured Projects
 - [RPMTW Platform Mod](https://github.com/RPMTW/RPMTW-Platform-Mod)
