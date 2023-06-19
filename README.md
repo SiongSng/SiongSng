@@ -16,6 +16,13 @@ I have a passion for learning new knowledge and caring about social issues in li
 - [2022 Election Page](https://github.com/SiongSng/2022-election)
 
 ## 
+看看誰又偷吃掉我的 git commit。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiongSng/SiongSng/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiongSng/SiongSng/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SiongSng/SiongSng/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=SiongSng&theme=radical&column=4" />
