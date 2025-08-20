@@ -1,9 +1,9 @@
 # SiongSng (菘菘)
 ## About me
-Hi, Nice to meet you! I'm a prospective high school student from Taiwan.  
-I have a passion for learning new knowledge and caring about social issues in life. I strive to address these issues through technology and programming, and ultimately share the process and outcomes with everyone for the benefit of all.
+Hi, great to meet you! I’m a high school student from Taiwan.
+I love learning and I care a lot about social issues around me. I try to tackle these problems with technology and programming, and I make it a point to open-source my process and results so that everyone can learn from and benefit from them.
 
-嗨～很高興認識你，我是個來自臺灣的高一生。  
+嗨～很高興認識你，我是個來自臺灣的高中生。  
 我熱愛學習新知識、關心生活中的社會議題，並透過科技與程式嘗試解決這些議題，最終將過程與結果開源，使人人受惠。
 
 ## Featured Projects
