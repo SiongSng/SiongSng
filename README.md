@@ -16,7 +16,7 @@ I love learning and care deeply about social issues in my community. I use techn
 - [RPMTW API Server](https://github.com/RPMTW/RPMTW-Server)
 
 ## Contribution
-Let's see who's been eating my git commits:
+Here's a snake eating its way through my git commits:
 看看誰又偷吃掉我的 git commit：
 
 <picture>
